@@ -15,7 +15,7 @@
 		<hibernate-validator.version>5.3.6.Final</hibernate-validator.version>
 
 		<sqljdbc.version>4.0</sqljdbc.version>
-		<mysqljdbc.version>5.1.6</mysqljdbc.version>
+		<mysqljdbc.version>8.0.16</mysqljdbc.version>
 
 		<commons-dbcp2.version>2.1.1</commons-dbcp2.version>
 
