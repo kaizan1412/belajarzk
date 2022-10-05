@@ -20,7 +20,7 @@
 		<commons-dbcp2.version>2.1.1</commons-dbcp2.version>
 
 		<spring.version>4.2.1.RELEASE</spring.version>
-		<spring-data-jpa.version>2.0.8.RELEASE</spring-data-jpa.version>
+		<spring-data-jpa.version>2.1.0.RELEASE</spring-data-jpa.version>
 
 		<javaee-web-api.version>7.0</javaee-web-api.version>
 		<jackson.version>2.9.8</jackson.version>
