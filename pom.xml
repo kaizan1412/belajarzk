@@ -23,7 +23,7 @@
 		<spring-data-jpa.version>2.0.8.RELEASE</spring-data-jpa.version>
 
 		<javaee-web-api.version>7.0</javaee-web-api.version>
-		<jackson.version>2.9.8</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 		<modelmapper.version>2.3.2</modelmapper.version>
 
 		<cglib.version>2.2.2</cglib.version>
